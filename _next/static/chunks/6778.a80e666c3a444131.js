@@ -1,4 +1,4 @@
-"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[6778],{12328:function(e,u,a){a.r(u),a.d(u,{default:function(){return n}});var n=`{
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[6778],{96778:function(e,u,a){a.r(u),a.d(u,{default:function(){return n}});var n=`{
   "connect_wallet": {
     "label": "C\xfczdan\u0131 Ba\u011Fla",
     "wrong_network": {
